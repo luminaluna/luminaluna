@@ -1,4 +1,4 @@
-### Hi there, Luna - aka [LunaTV][website] 👋
+### Hi there, Lumina Luna - aka [Luna][website] 👋
 
 <details>
   <summary>:zap: Github Stats</summary>
